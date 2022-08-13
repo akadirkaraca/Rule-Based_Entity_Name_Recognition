@@ -1,0 +1,1 @@
+Makine öğrenmesi ile çalışabilmek için dataset oluşturmak amacıyla, kural tabanlı varlık ismi işaretleme için oluşturulmuştur.

@@ -1,0 +1,5 @@
+﻿Kuzey
+Güney
+Batı
+Doğu
+başkent
